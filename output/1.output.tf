@@ -1,4 +1,3 @@
-output "sample" 
-{
-    value="welcome to terraform"
+output "sample" {
+  value = "Hello, world!"
 }
