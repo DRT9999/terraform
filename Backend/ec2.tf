@@ -3,6 +3,6 @@ resource "aws_instance" "remote-app" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "TerrafromDelete"
+    Name = "Terrafrom_Delete"
   }
 }
